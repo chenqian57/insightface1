@@ -1,0 +1,13 @@
+tensorboard
+easydict
+mxnet
+onnx
+sklearn
+opencv-python
+
+# import tensorboard
+# import easydict
+# import mxnet
+# import onnx
+# import sklearn
+# import cv2
