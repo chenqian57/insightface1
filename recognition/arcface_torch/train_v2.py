@@ -265,7 +265,7 @@ def main(args):
     # 在训练结束时，它保存模型参数、优化器状态和学习率调度器状态，并关闭日志记录器
     # 0, 6, 8, 18, 19, 21
     
-    start_epoch = 0
+    start_epoch = 20
 
     global_step = 0
 

@@ -2,7 +2,7 @@
 import os
 import shutil
 
-source_dir = '/home/qiujing/face_data/webface26m/3/3_4/WebFace260M'
+source_dir = '/home/qiujing/face_data/webface26m/3/3_5/WebFace260M'
 # /home/qiujing/face_data/webface26m/0/zong_0
 
 

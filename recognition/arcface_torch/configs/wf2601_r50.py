@@ -61,7 +61,7 @@ config.num_image = 8465386
 
 
 # 20, 40, 25
-config.num_epoch = 20
+config.num_epoch = 30
 
 # 0, config.num_epoch // 10
 config.warmup_epoch = 0
@@ -96,9 +96,12 @@ config.gradient_acc = 1
 # setup seed
 config.seed = 2048
 
+
+
+
 # dataload numworkers
 # 2, 44, 20, 30
-config.num_workers = 30
+config.num_workers = 20
 
 
 
@@ -126,5 +129,5 @@ config.wandb_resume = False # resume wandb run: Only if the you wand t resume th
 
 config.save_all_states = True
 # False, True
-config.resume = False
+config.resume = True
 
